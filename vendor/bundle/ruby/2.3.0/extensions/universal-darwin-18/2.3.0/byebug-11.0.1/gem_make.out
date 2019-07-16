@@ -1,0 +1,19 @@
+current directory: /Users/albertstrange/Desktop/albert_on_rails/my_first_rails_app/vendor/bundle/ruby/2.3.0/gems/byebug-11.0.1/ext/byebug
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20190716-34013-1msd0wg.rb extconf.rb
+creating Makefile
+
+current directory: /Users/albertstrange/Desktop/albert_on_rails/my_first_rails_app/vendor/bundle/ruby/2.3.0/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/albertstrange/Desktop/albert_on_rails/my_first_rails_app/vendor/bundle/ruby/2.3.0/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/albertstrange/Desktop/albert_on_rails/my_first_rails_app/vendor/bundle/ruby/2.3.0/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20190716-34013-zg85vs/byebug
